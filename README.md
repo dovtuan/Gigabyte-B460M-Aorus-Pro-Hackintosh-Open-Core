@@ -10,6 +10,7 @@ PSU 1STPLAYER PS-500EUW 500W 80 Plus White
 Wifi + Bluetooth BCM94360CS
 Monitor Samsung U28E590D 28-Inch 4k
 ```
+![7](/images/7.png)
 # OpenCore (Version: 0.6.0) + macOS Catalina (Version 10.15.6)
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0
