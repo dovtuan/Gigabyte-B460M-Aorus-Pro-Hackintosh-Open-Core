@@ -23,7 +23,7 @@ Monitor Samsung U28E590D 28-Inch 4k
 - WhateverGreen (1.4.1)
 # Work??
 - Intel Quick Sync
-- Handoff, Air Drop, Slidecar
+- Handoff, Air Drop
 - Rear Jack Audio Output + Input and Front Jack
 - Ethernet
 - Wifi
