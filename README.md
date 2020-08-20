@@ -6,12 +6,11 @@ Intel Core i5 10400 SHR3C
 Ram 2 x 8GB corsair vengeance lpx 2666CL16
 SSD WD BLACK SN750 250GB NVME PCIe Gen3 x4 (WDS250G3X0C)
 VGA Gigabyte Radeon™ RX 570 GAMING 4G MI
-PSU 1STPLAYER PS-500EUW 500W 80 Plus White
 Wifi + Bluetooth BCM94360CS
 Monitor Samsung U28E590D 28-Inch 4k
 ```
-![7](/images/7.png)
-# OpenCore (Version: 0.6.0) + macOS Catalina (Version 10.15.6)
+![9](/images/9.png)
+# OpenCore (Version: 0.6.1) + macOS Catalina (Version 10.15.6) or macOS Big Sur (Version 11.0 beta 5)
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0
 # Kexts include
@@ -36,11 +35,11 @@ Monitor Samsung U28E590D 28-Inch 4k
 # Not Work??
 - Etc
 # Result
-![1](/images/1.png)
+![8](/images/8.png)
 ![2](/images/2.png)
 ![3](/images/3.png)
 ![4](/images/4.png)
 ![5](/images/5.png)
 # Note For You
 The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
-![6](/images/6.png)
+![12](/images/12.png)
