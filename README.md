@@ -38,7 +38,7 @@ Monitor Samsung U28E590D 28-Inch 4k
 ![8](/images/8.png)
 ![2](/images/2.png)
 ![3](/images/3.png)
-![4](/images/4.png)
+![11](/images/11.png)
 ![5](/images/5.png)
 # Note For You
 The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
