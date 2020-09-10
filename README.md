@@ -2,6 +2,8 @@
 # Specifications
 ```
 Gigabyte B460M Aorus Pro (Bios: F3)
+ - Audio: Realtek® ALC1200 codec
+ - Ethernet: Intel® Ethernet Connection I219V12
 Intel Core i5 10400 SHR3C
 Ram 2 x 8GB corsair vengeance lpx 2666CL16
 SSD WD BLACK SN750 250GB NVME PCIe Gen3 x4 (WDS250G3X0C)
