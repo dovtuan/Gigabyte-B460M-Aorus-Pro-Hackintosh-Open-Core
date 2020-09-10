@@ -6,21 +6,20 @@ Intel Core i5 10400 SHR3C
 Ram 2 x 8GB corsair vengeance lpx 2666CL16
 SSD WD BLACK SN750 250GB NVME PCIe Gen3 x4 (WDS250G3X0C)
 VGA Gigabyte Radeon™ RX 570 GAMING 4G MI
-Wifi + Bluetooth BCM94360CS
-Monitor Samsung U28E590D 28-Inch 4k
+Wifi + Bluetooth BCM943602CS (WTXUP)
+Monitor Samsung U28E590D 28-inch 4k
 ```
 ![9](/images/9.png)
-# OpenCore (Version: 0.6.1) + macOS Catalina (Version 10.15.6) or macOS Big Sur (Version 11.0 beta 5)
+# OpenCore (Version: 0.6.1 - stable) + macOS Catalina (Version 10.15.6) or macOS Big Sur (Version 11.0 beta)
 - https://dortania.github.io/OpenCore-Install-Guide/
-- https://github.com/williambj1/OpenCore-Factory/releases/tag/2020-08-20
+- https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.1
 # Kexts include
-- AppleALC (1.5.1)
-- FakePCIID (1.3.15)
-- IntelMausi (1.0.3)
-- Lilu (1.4.6)
+- AppleALC (1.5.2)
+- IntelMausiEthernet (2.5.1d1)
+- Lilu (1.4.7)
 - USBInjectAll (0.7.5)
-- VirtualSMC (1.1.5)
-- WhateverGreen (1.4.1)
+- VirtualSMC (1.1.6)
+- WhateverGreen (1.4.2)
 # Work??
 - Intel Quick Sync
 - Handoff, Air Drop
@@ -30,7 +29,7 @@ Monitor Samsung U28E590D 28-Inch 4k
 - Bluetooth
 - All USB Port
 - Restart, Sleep and Shutdown 
-- Trim native 
+- TRIM native 
 - Etc
 # Not Work??
 - Etc
