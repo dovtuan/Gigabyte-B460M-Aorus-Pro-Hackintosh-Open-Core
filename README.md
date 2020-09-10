@@ -20,9 +20,10 @@ Monitor Samsung U28E590D 28-inch 4k
 - AppleALC (1.5.2)
 - IntelMausiEthernet (2.5.1d1)
 - Lilu (1.4.7)
-- USBInjectAll (0.7.5)
+- USBPorts
 - VirtualSMC (1.1.6)
 - WhateverGreen (1.4.2)
+- XHCI-unsupported
 # Work??
 - Intel Quick Sync
 - Handoff, Air Drop
