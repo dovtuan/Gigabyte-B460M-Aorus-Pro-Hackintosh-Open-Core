@@ -48,7 +48,7 @@ Monitor Samsung U28E590D 28-inch 4k
 
 1. Choose the config file for your case:
 - iGPU Only then rename config_iGPU_only.plist to config.plist
-- iGPU + RX4xx_RX5xx (Polaris) then rename config_iGPU+RX4xx_RX5xx_Polaris.plist to config.plist
+- iGPU + RX4xx_RX5xx (Polaris) then next to step 2
 - iGPU + RX5xxx (Navi) then rename config_iGPU+RX5xxx_Navi.plist to config.plist
 
 2. The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
