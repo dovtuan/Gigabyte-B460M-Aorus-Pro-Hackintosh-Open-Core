@@ -13,16 +13,16 @@ Monitor Samsung U28E590D 28-inch 4k
 ```
 ![9](/images/9.png)
 ![13](/images/13.png)
-# OpenCore (Version: 0.6.1 - stable) + macOS Catalina (Version 10.15.6) or macOS Big Sur (Version 11.0 beta)
+# OpenCore (Version: 0.6.2 - stable) + macOS Catalina (Version 10.15.7) or macOS Big Sur (Version 11.0 beta)
 - https://dortania.github.io/OpenCore-Install-Guide/
-- https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.1
+- https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.2
 # Kexts include
-- AppleALC (1.5.2)
-- IntelMausiEthernet (2.5.1d1)
-- Lilu (1.4.7)
+- AppleALC (1.5.3)
+- IntelMausi (1.0.4)
+- Lilu (1.4.8)
 - USBPorts
-- VirtualSMC (1.1.6)
-- WhateverGreen (1.4.2)
+- VirtualSMC (1.1.7)
+- WhateverGreen (1.4.3)
 - XHCI-unsupported
 # Work??
 - Intel Quick Sync
