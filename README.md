@@ -43,6 +43,7 @@ Monitor Samsung U28E590D 28-inch 4k
 ![10](/images/10.png)
 ![11](/images/11.png)
 ![5](/images/5.png)
+![iStat](/images/Screen%20Shot%202020-10-08%20at%2010.05.23.png)
 
 # Note For You
 
