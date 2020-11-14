@@ -1,7 +1,7 @@
 
 # Specifications
 ```
-Gigabyte B460M Aorus Pro (Bios: F3)
+Gigabyte B460M Aorus Pro (Bios: F4)
  - Audio: Realtek® ALC1200 codec
  - Ethernet: Intel® Ethernet Connection I219V12
 Intel Core i5 10400 SHR3C
