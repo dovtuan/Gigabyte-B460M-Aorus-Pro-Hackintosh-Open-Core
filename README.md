@@ -12,7 +12,7 @@ Wifi + Bluetooth BCM943602CS (WTXUP)
 Monitor Samsung U28E590D 28-inch 4k
 ```
 ![9](/images/9.png)
-![13](/images/16.png)
+![13](/images/13.png)
 # OpenCore (Version: 0.6.3 - stable) + macOS Catalina (Version 10.15.5+) or macOS Big Sur (Version 11.0+)
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3
