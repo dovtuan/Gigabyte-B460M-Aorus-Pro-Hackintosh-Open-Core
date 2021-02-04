@@ -13,7 +13,7 @@ Monitor Samsung U28E590D 28-inch 4k
 ```
 ![9](/images/9.png)
 ![13](/images/13.png)
-# OpenCore (Version: 0.6.4 - stable) + macOS Catalina (Version 10.15.5+) or macOS Big Sur (Version 11.0+)
+# OpenCore (Version: 0.6.6 - stable) + macOS Catalina (Version 10.15.5+) or macOS Big Sur (Version 11.0+)
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.6
 # Kexts include
@@ -48,9 +48,12 @@ Monitor Samsung U28E590D 28-inch 4k
 # Note For You
 
 ~~1. Choose the config file for your case:~~
+
 ~~- iGPU Only then rename config_iGPU_only.plist to config.plist~~
+
 ~~- iGPU + RX4xx_RX5xx (Polaris) then next to step 2~~
+
 ~~- iGPU + RX5xxx (Navi) then rename config_iGPU+RX5xxx_Navi.plist to config.plist~~
 
-2. The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
+~~2.~~ The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
 ![12](/images/12.png)
