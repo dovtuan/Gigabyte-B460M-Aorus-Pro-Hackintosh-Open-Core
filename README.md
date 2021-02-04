@@ -1,7 +1,7 @@
 
 # Specifications
 ```
-Gigabyte B460M Aorus Pro (Bios: F4)
+Gigabyte B460M Aorus Pro (Bios: F5b)
  - Audio: Realtek® ALC1200 codec
  - Ethernet: Intel® Ethernet Connection I219V12
 Intel Core i5 10400 SHR3C
@@ -17,12 +17,12 @@ Monitor Samsung U28E590D 28-inch 4k
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.4
 # Kexts include
-- AppleALC (1.5.5)
-- IntelMausi (1.0.4)
-- Lilu (1.5.0)
+- AppleALC (1.5.7)
+- IntelMausi (1.0.5)
+- Lilu (1.5.1)
 - USBPorts
-- VirtualSMC (1.1.9)
-- WhateverGreen (1.4.5)
+- VirtualSMC (1.2.0)
+- WhateverGreen (1.4.7)
 - XHCI-unsupported
 # Work??
 - Intel Quick Sync
@@ -47,10 +47,10 @@ Monitor Samsung U28E590D 28-inch 4k
 
 # Note For You
 
-1. Choose the config file for your case:
+~~1. Choose the config file for your case:
 - iGPU Only then rename config_iGPU_only.plist to config.plist
 - iGPU + RX4xx_RX5xx (Polaris) then next to step 2
-- iGPU + RX5xxx (Navi) then rename config_iGPU+RX5xxx_Navi.plist to config.plist
+- iGPU + RX5xxx (Navi) then rename config_iGPU+RX5xxx_Navi.plist to config.plist~~
 
 2. The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
 ![12](/images/12.png)
