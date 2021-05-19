@@ -14,7 +14,7 @@ Monitor Samsung U28E590D 28-inch 4k
 ![13](/images/13.png)
 # OpenCore (Version: 0.6.9 - stable) + macOS Catalina (Version 10.15.5+) or macOS Big Sur (Version 11.0+)
 - https://dortania.github.io/OpenCore-Install-Guide/
-- https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.6
+- https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.9
 # Kexts include
 - AppleALC (1.6.0)
 - IntelMausi (1.0.6)
